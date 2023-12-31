@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **DSA, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://dudum98.github.io/Nethmee-s-Website/](https://dudum98.github.io/Nethmee-s-Website/)
+- 👩🏽‍💻 All of my projects are available at [https://dudum98.github.io/Nethmee-s-Website/](https://dudum98.github.io/Nethmee-s-Website/)
 
 - 📫 How to reach me **nethu209@gmail.com**
 
