@@ -26,9 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dudum98&show_icons=true&locale=en&layout=compact" alt="dudum98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dudum98&show_icons=true&locale=en" alt="dudum98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dudum98&" alt="dudum98" /></p>
 
 
 
