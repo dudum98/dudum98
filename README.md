@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nethmee Perera</h1>
+<h1 align="center">Hello World! 👋🏽, I'm Nethmee Perera</h1>
 <h3 align="center">A CS Undergraduate student at GSU 👩🏽‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
