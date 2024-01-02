@@ -1,16 +1,16 @@
 
-<h1 align="center">Hello World! 👋🏽, I'm Nethmee Perera</h1>
-<h3 align="center">A CS Undergraduate Student at GSU 👩🏽‍💻</h3>
+<h1 align="center">Hello World! 👋🏽, I'm Nethmee</h1>
+<h3 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
 
 - 🔭 I’m currently working on [LetsHelp](https://github.com/AbdurRohit/Fundraiser-dApp)
 
-- 🌱 I’m currently learning **DSA, Tableau**
+- 🚀 I’m currently learning **DSA, Tableau**
 
 - 👩🏽‍💻 All of my projects are available at [https://dudum98.github.io/Nethmee-s-Website/](https://dudum98.github.io/Nethmee-s-Website/)
 
-- 📫 How to reach me **nethu209@gmail.com**
+- 📨 How to reach me **nethu209@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/dudum98/resume](https://github.com/dudum98/resume)
 
