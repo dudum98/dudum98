@@ -1,3 +1,4 @@
+![Header](https://djdesignerlab.com/wp-content/uploads/2019/06/php-vs-js-header.jpg)
 <h1 align="center">Hello World! 👋🏽, I'm Nethmee</h1>
 <h3 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
