@@ -1,4 +1,4 @@
-![Header](yvjz70r8.png)
+ <img src="yvjz70r8.png" alt="Header" width="100%" height="100">
 <h1 align="center">Hello World! 👋🏽, I'm Nethmee</h1>
 <h3 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h3>
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
