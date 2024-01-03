@@ -1,6 +1,6 @@
 <h1 align="center">Hello World! 👋🏽, I'm Nethmee</h1>
 <h3 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
 - 🔭 I’m currently working on [LetsHelp](https://github.com/AbdurRohit/Fundraiser-dApp)
 - 🚀 Elevating my skills in **DSA** and diving into the wonders of **Tableau**
