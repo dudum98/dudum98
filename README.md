@@ -1,7 +1,7 @@
- <img src="yvjz70r8.png" alt="Header" width="100%" height="100">
+ <img src="yvjz70r8.png" alt="Header" width="100%" height="80">
 <h2 align="center">Hello World! 👋🏽, I'm Nethmee</h2>
 <h5 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h5>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
 - 🔭 I’m currently working on [LetsHelp](https://github.com/AbdurRohit/Fundraiser-dApp)
 - 🚀 Elevating my skills in **DSA** and diving into the wonders of **Tableau**
