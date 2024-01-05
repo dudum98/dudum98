@@ -5,7 +5,6 @@
 
 - 🔭 I’m currently working on [LetsHelp](https://github.com/AbdurRohit/Fundraiser-dApp)
 - 🚀 Elevating my skills in **DSA** and diving into the wonders of **Tableau**
-- 👩🏽‍💻 Explore my digital universe at [Nethmee's Hub](https://dudum98.github.io/Nethmee-s-Website/)
 - 📨 Reach out to me at **nethu209@gmail.com**
 - 📄 Know about my experiences [https://github.com/dudum98/resume](https://github.com/dudum98/resume)
   
