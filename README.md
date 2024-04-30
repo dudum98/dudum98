@@ -3,7 +3,6 @@
 <h5 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h5>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
-- 🔭 I’m currently working on [LetsHelp](https://github.com/AbdurRohit/Fundraiser-dApp)
 - 🚀 Elevating my skills in **DSA** 
 - 📨 Reach out to me at **nethu209@gmail.com**
 - 📄 Know about my experiences [https://github.com/dudum98/resume](https://github.com/dudum98/resume)
