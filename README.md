@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
 - 🚀 Elevating my skills in **DSA** 
-- 📨 Reach out to me at **nethu209@gmail.com**
+
 - 📄 Know about my experiences [https://github.com/dudum98/resume](https://github.com/dudum98/resume)
   
 <h4 align="left">Lets Connect 🌎:</h4>
