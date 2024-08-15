@@ -1,5 +1,5 @@
  <img src="yvjz70r8.png" alt="Header" width="100%" height="80">
-<h2 align="center">Hello World! 👋🏽, I'm Nethmee</h2>
+<h2 align="center">Hello World! 👋🏽</h2>
 <h5 align="center">CS Undergraduate Student at GSU 👩🏽‍💻</h5>
 <img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif">
 
